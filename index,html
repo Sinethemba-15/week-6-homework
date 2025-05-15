@@ -48,7 +48,13 @@
         <p>
           This project was coded by
           <a href="#" target="_blank">Sinethemba Msibi </a> and is
-          <a href="#" target="_blank"> on GitHub</a> and
+          <a
+            href="https://github.com/Sinethemba-15/week-6-homework"
+            target="_blank"
+          >
+            on GitHub</a
+          >
+          and
           <a href="#" target="_blank">hosted on Netlify</a>
         </p>
       </footer>
